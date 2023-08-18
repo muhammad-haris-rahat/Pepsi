@@ -1,0 +1,431 @@
+.FirstParentContainer{
+    border: 1px solid  #045da3; 
+    height: 590px;
+    background-image: url(./Afd8521881f1b4c249f5b506a06e60392L.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; 
+    /* padding-top: 100px; */
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+ .FirstChildContainer{
+    display: flex;
+     justify-content:end ; 
+    /* flex */
+    /* position:absolute; */
+    width: 50%;
+    /* justify-items:; */
+    /* align-content:flex-end; */
+    margin-top: 102px;
+
+      
+    
+} 
+
+.SecondChildContainer{
+    width: 50%;
+    /* flex-direction: column-reverse ; */
+    /* align-content: end; */
+    /* height: 50%; */
+    /* display: flex; */
+    justify-content:center;
+    margin-top: 110px;
+    color: white;
+    text-align: center;
+    margin-right: 250px;
+}
+
+/* .SecondParentContainer{
+    border: 1px solid black;
+    height: 500px;
+    background-color:#040405;
+    width: 100%;
+    display: flex;
+    flex-direction: row; */
+    /* position: relative; */
+    /* color: aqua; */
+    /* justify-content: center;
+    align-items: center;
+    position: relative;
+     */
+/* } */
+
+/* .ThirdChildContainer{ */
+    /* display: flex; */
+    /* justify-content:center; */
+    /* min-width: 50%; */
+    /* margin-top: 101px; */
+    /* background-color: #040405; */
+/* } */
+
+/* .FourthChildContainer{
+    min-width: 50%;
+    display: flex;
+    justify-content: center; */
+    /* margin-top: 100px; */
+    /* padding-top: 100px; */
+    /* background-color:brown */
+    /* padding-left: 100px; */
+    /* position:absolute; */
+    
+    
+
+
+    
+/* } */
+
+/* .SecondParentContainer{
+    border: 1px solid black;
+    height: 500px;
+    background-color:#040405;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.ThirdChildContainer{
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 101px;
+}
+
+.FourthChildContainer{
+    max-width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    margin-left:20px;
+} */
+
+
+
+.SecondParentContainer{
+    border: 1px solid black;
+    height: 500px;
+
+}
+
+.ThirdParentContainer{
+    border: solid blue 1px;
+    height: 500px;
+    background-color:  #045da3;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.ThirdChildContainer{
+    display: flex;
+    justify-content:end ; 
+    width: 50%;
+    margin-top: 30px;
+
+}
+.FourthChildContainer{
+    width: 50%;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+
+.smooth{
+    margin-top: 260px;
+    margin-left: -300px;
+    color: white;
+}
+
+.FirstLink{
+    margin-top: 290px;
+    margin-left: -190px;
+    color: white;
+}
+
+
+.parent{
+    width: 100%;
+    height: 98vh;
+    background-color:  blue;
+    display: flex;
+    /* margin-bottom:600px; */
+    /* padding-bottom: 600px; */
+    /* margin-top: 0px; */
+    padding-top: -1px;
+    
+}
+
+.child1{
+ width: 25%;
+ height: 100%;
+ background-color:  #045da3
+
+ 
+}
+
+.child2{
+height: 50%;
+width: 100%;
+background-color:  #045da3
+
+}
+
+.child3{
+height: 50%;
+width: 100%;
+background-color:  #045da3
+}
+
+.parent2{
+width: 75%;
+height: 100%; 
+background-color:  #045da3
+
+
+
+}
+
+.FourthParentContainer{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-2-desktop@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid  #045da3; 
+    height: 650px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color:  #045da3;
+}
+
+.FifthChildContainer{
+    width: 30%;
+
+}
+
+.city{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 20%;
+
+}
+
+.state{
+    width: 10%;
+    margin-left: 40px;
+    margin-top: 240px;
+
+
+}
+
+.SixthChildContainer{
+    width: 70%;
+}
+
+.FifthParentContainer{
+    border: 1px solid  #045da3;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: #045da3;
+
+}
+
+.SeventhChildContainer{
+    width: 50%;
+    margin-top: 50px;
+}
+
+.EighthChildContainer{
+    width: 50%;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.SixthParentContainer{
+    border: 1px solid  #045da3;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: #045da3;
+
+
+}
+
+.NinethChildContainer{
+    width: 50%;
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.TenthChildContainer{
+    width: 50%;
+    margin-top: 50px;
+
+}
+
+.para{
+    font-size:small;
+}
+
+.heading{
+    text-align: center;
+    color: #045da3;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.SeventhParentContainer{
+    border: 1px solid  #045da3;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.EleventhChildContainer{
+    width: 20%;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-twitter.png?mtime=20180110134932);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-top: 30px; */
+}
+
+.TwelvethChildContainer{
+    width: 20%;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-facebook.png?mtime=20180110134926);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.ThirteenthChildContainer{
+    width: 20%;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-instagram.png?mtime=20180110134928);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.FourteenthChildContainer{
+    width: 20%;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-youtube.png?mtime=20180110134934);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.FifteenthChildContainer{
+    width: 20%;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/social-tiktok.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.EighthParentContainer{
+    border: #045da3 solid 1px;
+    height: 200px;
+    background-color: #045da3;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    /* text-align: end; */
+}
+
+.SixteenthChildContainer{
+    width: 20%;
+    margin-top: 60px;
+    margin-left: 30px;
+    /* text-align: center; */
+}
+
+.SeventeenthChildContainer{
+    width: 20%;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size:x-small;
+    text-align: center;
+
+
+}
+
+.EighteenthChildContainer{
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: center;
+    font-size:x-small;
+
+}
+
+.NineteenthChildContainer{
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size:x-small;
+    text-align: center;
+    
+}
+
+.TwenthChildContainer{
+    width: 20%;
+    margin-top: -140px;
+    margin-left: 300px;
+}
+.Top{
+    border: #045da3 solid 1px;
+    height: 50px;
+    background-color: #045da3;
+    display: flex;
+    width: 100%;
+    position: fixed;
+}
+
+.top1{
+    width: 10%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.top2{
+    width: 10%;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-size: small;
+
+
+}
+
+.top3{
+    width: 10%;
+    margin-top: 10px;
+    margin-right: 150px;
+    font-size: small;
+
+    
+}
+
+.top4{
+    width: 10%;
+    margin-top: 10px;
+    font-size: small;
+    margin-right: 550px;
+    text-align: start;
+    
+    
+}
+
+.top5{
+    width: 60%;
+    margin-top: 10px;
+    font-size: small;
+
+
+}
